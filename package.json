@@ -1,0 +1,26 @@
+{
+  "name": "sitio-web-nintendo",
+  "version": "1.0.0",
+  "description": "Sitio de practica basado en proyecto de @VidaMRR",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gab-Serrano/sitio-web-nintendo.git"
+  },
+  "keywords": [
+    "web",
+    "css",
+    "html",
+    "js",
+    "bootstrap5"
+  ],
+  "author": "Gabriel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gab-Serrano/sitio-web-nintendo/issues"
+  },
+  "homepage": "https://github.com/Gab-Serrano/sitio-web-nintendo#readme"
+}
