@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/Gab-Serrano/sitio-web-nintendo/issues"
   },
-  "homepage": "https://github.com/Gab-Serrano/sitio-web-nintendo#readme"
+  "homepage": "https://github.com/Gab-Serrano/sitio-web-nintendo#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.0-alpha1"
+  }
 }
